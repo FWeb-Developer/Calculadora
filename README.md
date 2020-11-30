@@ -1,1 +1,3 @@
-# Calculadora
+# Calculadora :computer:
+
+Calculadora simples 
